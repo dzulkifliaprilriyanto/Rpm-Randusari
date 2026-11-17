@@ -1,0 +1,8 @@
+{
+  "name": "AI RPM SDN Randusari",
+  "description": "Asisten Cerdas Guru dalam Merancang Pembelajaran Mendalam berbasis Kurikulum Merdeka untuk Guru Sekolah Dasar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#047857" />
+      <stop offset="100%" stop-color="#065f46" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)" />
+  <rect x="28" y="28" width="456" height="456" rx="76" fill="none" stroke="#34d399" stroke-opacity="0.25" stroke-width="4" />
+  <!-- Open Book -->
+  <path d="M108 164c0-18 14-32 32-32h98c10 0 18 8 18 18v214c-24-14-56-22-94-22-22 0-42 4-54 10V164z" fill="#ffffff" />
+  <path d="M404 164c0-18-14-32-32-32h-98c-10 0-18 8-18 18v214c24-14 56-22 94-22 22 0 42 4 54 10V164z" fill="#ecfdf5" />
+  <line x1="256" y1="146" x2="256" y2="366" stroke="#047857" stroke-width="8" stroke-linecap="round" />
+  <!-- Lines on pages -->
+  <line x1="140" y1="190" x2="224" y2="190" stroke="#047857" stroke-opacity="0.35" stroke-width="10" stroke-linecap="round" />
+  <line x1="140" y1="226" stroke="#047857" x2="224" y2="226" stroke-opacity="0.35" stroke-width="10" stroke-linecap="round" />
+  <line x1="140" y1="262" stroke="#047857" x2="210" y2="262" stroke-opacity="0.35" stroke-width="10" stroke-linecap="round" />
+  <line x1="288" y1="190" x2="372" y2="190" stroke="#047857" stroke-opacity="0.35" stroke-width="10" stroke-linecap="round" />
+  <line x1="288" y1="226" x2="372" y2="226" stroke="#047857" stroke-opacity="0.35" stroke-width="10" stroke-linecap="round" />
+  <line x1="288" y1="262" x2="358" y2="262" stroke="#047857" stroke-opacity="0.35" stroke-width="10" stroke-linecap="round" />
+  <!-- Gold Accent Bookmark Ribbon / Emblem -->
+  <path d="M256 78l16 32 35 5-25 25 6 35-32-17-32 17 6-35-25-25 35-5z" fill="#f59e0b" />
+  <!-- Subtle red-white Indonesian education bar at bottom -->
+  <rect x="164" y="394" width="184" height="16" rx="8" fill="#dc2626" />
+  <rect x="164" y="410" width="184" height="16" rx="8" fill="#ffffff" />
+</svg>
